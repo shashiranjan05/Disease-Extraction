@@ -30,3 +30,7 @@ The target 'tag' follows the Inside-outside-beginning (IOB) tagging format. The 
 • An I-indications (inside) tag indicates that the token is inside an entity
 
 • An O (outside) tag indicates that a token is outside a disease entity
+
+DataSet:
+1.train.csv
+2.test.csv
